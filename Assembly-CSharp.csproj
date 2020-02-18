@@ -76,7 +76,6 @@
     <Compile Include="Assets\Scripts\OptionMenu.cs" />
     <Compile Include="Assets\Scripts\Options.cs" />
     <Compile Include="Assets\Scripts\OptionStorage.cs" />
-    <None Include="Assets\README.txt" />
     <None Include="Assets\SavedOptions.txt" />
     <None Include="Assets\ColorPickerTriangle\Shaders\VertexColor.shader" />
     <Reference Include="Unity.TextMeshPro.Editor">
