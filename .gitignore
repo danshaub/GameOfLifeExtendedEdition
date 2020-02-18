@@ -1,8 +1,4 @@
-[Tt]emp/
 [Ll]ibrary/
-.vs/
-*.sln
 
 *.meta
-*.pidb.meta
-*.pdb.meta
+.vs/
